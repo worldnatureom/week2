@@ -1,0 +1,157 @@
+body {
+	background-color: black;
+	color: white;
+}
+header{
+	background-color:#fcdd86;
+	font-family: Arial;
+	color: #6e140a;
+}
+
+
+
+.header h1 {
+	margin: 1px 420px;
+	text-decoration: italic;
+	font-family: tahoma
+}
+
+.header h4 {
+	margin-top:2px;
+	margin-bottom:5px;
+	margin-left:420px
+}
+.header{
+	margin-top: -8px;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-bottom: 4px;
+	padding: 4px;
+	background-color:#fcdd86;
+	width: 1153.4px;
+}
+.content {
+	font-family: Arial;
+	font-size: 24px;
+	color: white;
+	margin: 15px 10px
+}
+
+.list {
+	margin-left: 4px;
+	margin-right: 5px;
+	
+}
+
+#menu {
+	padding:0;
+	list-style-type: none;
+	width: 1500px;
+	min-height: 38px;
+	margin: 0 auto;
+	border-bottom: 5px solid #30bab6;
+	margin-left: -8px;
+	margin-right: -8px;
+	width: 1498.4px;
+}
+	
+#menu li {
+	float: left;
+	border-right: 2px solid #6a1c80;
+	border-left: 2px solid #9c30ba;
+	position: relative;
+}	
+
+#menu li:last-child {
+	border-right: none;
+}
+#menu li:first-child {
+	border-left: none;
+}
+
+#menu li a {
+	color: white;
+	font-family: arial;
+	background-color: #8E24AA;
+	text-decoration: none;
+	padding: 10px 118px;
+	display: block;
+}
+
+#menu li a:hover {
+background-color: #f7e76f;
+color: black;
+transition: 1s
+}
+
+.Aaayah{
+	display: inline;
+	float: right;
+	font-size: 20px;
+	margin: 44px 324px;
+	text-decoration: italic;
+	width: 296.4px;
+	height: 296.4px;
+	color:yellow
+}
+
+.Tawheed{
+	 display: inline;
+	 margin: -196px 7px;
+	 font-family: Arial;
+	 font-size: 21px;
+	 text-align: justify;
+	 float: left
+}
+
+.hak {
+	font-size: 10px
+}
+
+.image{
+	display: inline;
+	float: left;
+}
+.img2 {
+	display:inline;
+	
+}
+.last{
+	display:inline;
+	margin: 200px 3px;
+}
+.ilast {
+	width: 300px;
+	height: 150px;
+}
+
+
+
+
+#menu li ul {
+	list-style-type: none;
+	padding: 0;
+	position: absolute;
+	left: -999999999999999999px
+}
+
+#menu li:hover ul {
+	left: 0;
+}
+
+#menu li ul li {
+	float: none;
+	border-right: none;
+	border-left: none;
+	border-top: 2px solid #f5e79a;
+	border-bottom: 2px solid #e0d070;
+	width: 200px}
+
+
+.Najd{
+	display: inline;
+	font-size: 28px;
+	float:right;
+	margin:5px 10px;
+	padding:
+}
